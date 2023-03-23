@@ -1,0 +1,1 @@
+**The Jupyter Notebook(SmartTvReview_Final.ipynb) contains the documentation of the project**
